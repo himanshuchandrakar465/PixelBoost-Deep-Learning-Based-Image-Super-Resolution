@@ -1,0 +1,7 @@
+tensorflow>=2.15
+numpy
+opencv-python-headless
+matplotlib
+pandas
+kaggle
+kagglehub
